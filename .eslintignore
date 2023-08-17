@@ -1,0 +1,5 @@
+dist/
+test/
+coverage/
+.eslintrc.js
+ormconfig.js
